@@ -27,3 +27,12 @@ text-align: right;
   font-style: oblique;
   color: red;
 }
+
+.trashmen {
+  font-weight: bold;
+  color: red
+}
+
+.About_me {
+  text-align: center;
+}
