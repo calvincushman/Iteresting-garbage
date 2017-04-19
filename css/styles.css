@@ -1,0 +1,29 @@
+body {
+  background-color: #d4edc4;
+}
+
+.headline {
+  text-align: center;
+}
+
+.Header {
+  text-align: center;
+}
+
+img {
+  max-width: 500px;
+  max-height: 400px;
+}
+.first_grab {
+text-align: left;
+
+}
+
+.second_grab {
+text-align: right;
+}
+
+.warm {
+  font-style: oblique;
+  color: red;
+}
